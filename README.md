@@ -233,19 +233,6 @@ flowchart LR
 - Post deploy health gates hit the application endpoint and automatically fail the deployment on a wrong status code.
 - A GitHub push webhook triggers the full chain: trigger, deploy, gate, notify. Any deployment rolls back to the last successful version in one click.
 
-## GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/2016rshah/githubchart-api"><img src="https://ghchart.rshah.org/Spador" alt="Contribution graph" width="100%"></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Spador&show_icons=true&theme=github_dark&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=Spador&show_icons=true&hide_border=true" alt="GitHub stats" width="420"></picture></a> <a href="https://github.com/anuraghazra/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Spador&layout=compact&langs_count=8&theme=github_dark&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spador&layout=compact&langs_count=8&hide_border=true" alt="Top languages" width="330"></picture></a>
-
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Spador&theme=dark&hide_border=true"><img src="https://streak-stats.demolab.com?user=Spador&hide_border=true" alt="Contribution streak" width="420"></picture></a>
-
-<sub>Top languages measures committed code volume, not skill.</sub>
-
-</div>
 
 ## Experience
 
