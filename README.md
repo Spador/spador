@@ -1,21 +1,312 @@
-# 💫 About Me:
-My background is software engineering with deep focus on cloud infrastructure, automation, observability and platform reliability. I work across AWS, Azure and OCI, use Terraform to make environments reproducible and build CI/CD pipelines so releases are routine not risky.<br><br>Software issues often emerge when systems encounter real-world conditions like traffic growth, deployment failures, unpredictable data and manual processes that do not scale. I design with these realities in mind from the start and build systems and features that keep working after they ship.<br><br>On the AI side, I build agent-based systems that operate in real workflows with orchestration, memory, monitoring and cost awareness. The goal is reducing human bottlenecks in systems that have already outgrown manual coordination.<br><br>If something can be done manually, I assume it will eventually be done incorrectly and I automate it. If something can fail, I plan for how it fails and how it can be detected and recovered.<br><br>I focus on durability, scalability and change by building platforms that let teams move fast without breaking things. When systems are stable, my work is invisible.
+<div align="center">
 
+# Shivam Parashar
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shivam-parashar1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sp3466@rit.edu) 
+I build backend services and the infrastructure that keeps them honest: APIs, data pipelines, deployment tooling, and the checks that catch failures before users do.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=spador&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=spador&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=spador&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Seattle, WA · Open to relocate · Backend, infrastructure, platform, SRE, and AI infra roles
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=spador&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[LinkedIn](https://linkedin.com/in/shivam-parashar1) · [sp3466@rit.edu](mailto:sp3466@rit.edu) · [Resume (PDF)](https://spador.github.io/Shivam/assets/Shivam_Resume.pdf)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</div>
+
+## Projects
+
+### [Halo](https://github.com/Spador/Halo)
+
+A free, open source Dynamic Island for the MacBook notch. Hover and it expands into media controls, a file shelf, custom volume and brightness HUDs, system stats, a calendar, and timers.
+
+`Swift 6` · `SwiftUI` · `AppKit` · `Homebrew cask`
+
+```mermaid
+flowchart LR
+    Hover[Hover or drag] --> Shell[Notch shell overlay]
+    Shell --> NP[Now Playing]
+    Shell --> Shelf[File shelf + AirDrop]
+    Shell --> HUD[Volume and brightness HUD]
+    Shell --> Stats[CPU, RAM, network, battery]
+    Shell --> Agenda[Calendar and timers]
+    NP --> MR[MediaRemote adapter]
+    HUD --> Tap[Media key event tap]
+    HUD --> DDC[DDC/CI external display control]
+    Agenda --> EK[EventKit]
+```
+
+- Replaces the system volume and brightness HUDs by intercepting media key events with a CGEvent tap, filtered so ordinary keystrokes never reach the app.
+- Controls external monitor speaker volume over DDC/CI through IOAVService, a channel macOS itself does not expose.
+- Reads system wide Now Playing data through a vendored MediaRemote adapter after Apple locked the direct API in macOS 15.4. Every private surface fails gracefully.
+
+### [Engineering-playbook](https://github.com/Spador/Engineering-playbook)
+
+<table>
+<tr>
+<td width="45%" valign="top">
+<a href="https://spador.github.io/Engineering-playbook/"><img src="https://raw.githubusercontent.com/Spador/Engineering-playbook/892b47e209006da8886acc0c247dcac9dc7cfe6a/docs/screenshots/home.png" width="380" alt="Engineering Playbook home page"></a>
+</td>
+<td width="55%" valign="top">
+
+A senior engineer in a box: fundamentals with copy-ready templates and honest tradeoff tables, twelve worked system design case studies, and a design advisor. [Live site](https://spador.github.io/Engineering-playbook/).
+
+`Next.js` · `MDX` · `Tailwind` · `Mermaid` · `Fuse.js` · `GitHub Actions`
+
+- CI enforces the content schema: an entry missing a diagram, a template, or a tradeoff table fails validation and cannot merge.
+- Fully static export, no server, no database. The command palette fuzzy searches every topic, heading, and glossary term against a prebuilt index.
+- Twelve case studies from URL shortener to Uber, each linking back to the fundamentals it uses.
+
+</td>
+</tr>
+</table>
+
+### [FleetSignal](https://github.com/Spador/FleetSignal)
+
+A fleet telemetry pipeline: synthetic self-driving events flow through a bronze, silver, gold warehouse into a safety metric and mined scenarios, guarded by quality gates and anomaly detection. One command runs all of it.
+
+`Python` · `DuckDB` · `Parquet` · `SQL` · `Streamlit` · `GitHub Actions`
+
+```mermaid
+flowchart LR
+    G[generate.py<br>synthetic events] --> B[(Bronze<br>raw parquet)]
+    B --> S[(Silver<br>clean, deduped)]
+    S --> Q1{Tier 1 gates}
+    Q1 -- pass --> GO[(Gold<br>star schema)]
+    Q1 -- fail --> H[Pipeline halts]
+    GO --> M[metrics.sql<br>miles per disengagement]
+    GO --> SC[scenarios.sql<br>ranked scenarios]
+    GO --> Q2{Tier 2 anomaly checks}
+    Q2 -- fail --> H
+    M --> D[Streamlit dashboard]
+```
+
+- Two tier failure detection: deterministic gates on schema, nulls, ranges, and referential integrity sit between silver and gold; statistical checks track volume, freshness, drift, and vehicle dropout against a rolling baseline.
+- The generator injects four fault types on demand and each one is caught by a specific check, so the detection is provable, not decorative.
+- The DuckDB transform layer stays under two seconds at five million events. The whole warehouse is parquet files, no server to host.
+
+### [cloudpulse](https://github.com/Spador/cloudpulse)
+
+<table>
+<tr>
+<td width="45%" valign="top">
+<a href="https://github.com/Spador/cloudpulse"><img src="https://raw.githubusercontent.com/Spador/cloudpulse/b1132ef9042975ec038e50276ff7198490347f86/docs/screenshots/DashBoard.png" width="380" alt="CloudPulse cost dashboard"></a>
+</td>
+<td width="55%" valign="top">
+
+Self hosted AWS cost and resource monitoring: daily and monthly cost breakdowns, resource inventory, and anomaly detection, with no SaaS fees.
+
+`Python` · `Flask` · `boto3` · `React` · `Terraform` · `DynamoDB` · `Lambda`
+
+- Surfaces cost spikes above 20 percent day over day and ranks them by severity instead of alerting on raw thresholds.
+- Mock mode runs the full stack with zero AWS credentials, so anyone can demo it without an account.
+- Terraform provisions the hourly polling Lambda, DynamoDB storage, IAM roles, and the CloudWatch schedule.
+
+</td>
+</tr>
+</table>
+
+### [Leetcode-streak](https://github.com/Spador/Leetcode-streak)
+
+306 LeetCode problems solved in Python, one folder per problem with the statement, the approach, and the solution.
+
+`Python`
+
+```mermaid
+pie showData
+    title LeetCode problems by difficulty
+    "Easy" : 104
+    "Medium" : 172
+    "Hard" : 30
+```
+
+- Every problem gets its own write-up: statement, approach, then implementation, so the repo doubles as a review reference.
+- Organized by difficulty with consistent structure, so any solution is one path lookup away.
+
+### [InfraGraph](https://github.com/Spador/InfraGraph)
+
+<table>
+<tr>
+<td width="45%" valign="top">
+<a href="https://github.com/Spador/InfraGraph"><img src="https://raw.githubusercontent.com/Spador/InfraGraph/dc037dfab88f3429a7e087f1f57db7d67522b6fc/docs/screenshots/preview.png" width="380" alt="InfraGraph dependency graph UI"></a>
+</td>
+<td width="55%" valign="top">
+
+Upload Terraform and Kubernetes files and get a live, interactive dependency graph: parsed to nodes and edges, stored in Neo4j, rendered force directed in D3.
+
+`Python` · `Flask` · `Neo4j` · `React` · `D3.js` · `Docker Compose`
+
+- Terraform edges are inferred by recursively walking every attribute string for interpolation references, plus explicit depends_on entries.
+- Graph loads are idempotent Cypher MERGEs, so re-uploading files updates the graph instead of duplicating it.
+- Nodes are sized by connectivity and colored by resource type. Click to inspect properties, toggle types on and off.
+
+</td>
+</tr>
+</table>
+
+### [RateShield](https://github.com/Spador/RateShield)
+
+<table>
+<tr>
+<td width="45%" valign="top">
+<a href="https://github.com/Spador/RateShield"><img src="https://raw.githubusercontent.com/Spador/RateShield/c20e2c4c163e6a09c7a44c3afe453a50078dfd5a/screenshots/metrics.png" width="380" alt="RateShield live metrics dashboard"></a>
+</td>
+<td width="55%" valign="top">
+
+API rate limiter middleware backed by Redis, implementing three canonical algorithms with an admin dashboard, live metrics, and a reverse proxy mode.
+
+`Python` · `Flask` · `Redis` · `Lua` · `Next.js` · `Locust` · `Docker Compose`
+
+- The token bucket runs as a Redis Lua script via EVAL, so refill and consume happen atomically in a single round trip with no race between clients.
+- The algorithms trade differently: sliding window log is exact but pays O(requests) memory per window, fixed window is O(1) but bursts at boundaries. The dashboard makes the tradeoffs visible under load.
+- Proxy mode enforces limits in front of any upstream service. A Locust harness load tests the middleware itself.
+
+</td>
+</tr>
+</table>
+
+### [Neo4J-Curriculum-Management](https://github.com/Spador/Neo4J-Curriculum-Management)
+
+Spring Boot and Neo4j backend for a course enrollment system: authentication, role based access, and a graph model of users, courses, and lessons. Pairs with [Curriculum-Management-Frontend](https://github.com/Spador/Curriculum-Management-Frontend).
+
+`Java 21` · `Spring Boot` · `Spring Security` · `Neo4j` · `Cypher` · `Maven`
+
+```mermaid
+flowchart LR
+    SS[Spring Security<br>BCrypt, roles on User] -.- U
+    U([User]) -- ENROLLED_IN --> C([Course])
+    L([Lesson]) -- BELONGS_TO --> C
+```
+
+- Authentication is backed by the graph itself: a custom UserDetailsService loads users and roles from Neo4j, with BCrypt hashed passwords.
+- Enrollment is a relationship, not a join table: `(User)-[:ENROLLED_IN]->(Course)`, lessons attached via `(Lesson)-[:BELONGS_TO]->(Course)`, so every query is a traversal.
+
+### [Curriculum-Management-Frontend](https://github.com/Spador/Curriculum-Management-Frontend)
+
+<table>
+<tr>
+<td width="45%" valign="top">
+<a href="https://github.com/Spador/Curriculum-Management-Frontend"><img src="https://raw.githubusercontent.com/Spador/Curriculum-Management-Frontend/3dab93b0a7169d634a6fdf711646e67fc65868f3/screenshots/home.png" width="380" alt="Curriculum Management home page"></a>
+</td>
+<td width="55%" valign="top">
+
+React SPA for the curriculum system: browse courses, enroll, and watch lessons. Pairs with the [Spring Boot and Neo4j backend](https://github.com/Spador/Neo4J-Curriculum-Management).
+
+`React 18` · `React Router v6` · `Bootstrap 5` · `Axios` · `Context API`
+
+- Protected routes with a RequiredAuth wrapper over React Router and a Context based auth provider.
+- A private Axios instance hook attaches credentials to authenticated calls in one place.
+- Lessons play in an embedded YouTube player mapped from the course data.
+
+</td>
+</tr>
+</table>
+
+### [DeployDeck](https://github.com/Spador/DeployDeck)
+
+Self hosted continuous deployment dashboard: tracks deployments, streams live logs, enforces post deploy health gates, and rolls back with one click. Runs entirely locally on Docker Compose.
+
+`Python` · `Flask` · `Celery` · `Redis` · `PostgreSQL` · `React` · `TypeScript` · `Docker Compose`
+
+```mermaid
+flowchart LR
+    GH[GitHub push webhook] --> API[Flask API]
+    UI[React dashboard] --> API
+    API -- SSE log stream --> UI
+    API --> PG[(PostgreSQL)]
+    API --> R[(Redis broker)]
+    R --> W[Celery worker]
+    W -- append logs --> PG
+    W --> HG{Health gate}
+    HG -- pass --> OK[Success]
+    HG -- fail --> RB[Failed, rollback available]
+    W --> SL[Slack notification]
+```
+
+- Deploy logs stream to the browser over server sent events while the Celery worker appends them, no polling.
+- Post deploy health gates hit the application endpoint and automatically fail the deployment on a wrong status code.
+- A GitHub push webhook triggers the full chain: trigger, deploy, gate, notify. Any deployment rolls back to the last successful version in one click.
+
+## GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/2016rshah/githubchart-api"><img src="https://ghchart.rshah.org/Spador" alt="Contribution graph" width="100%"></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Spador&show_icons=true&theme=github_dark&hide_border=true"><img src="https://github-readme-stats.vercel.app/api?username=Spador&show_icons=true&hide_border=true" alt="GitHub stats" width="420"></picture></a> <a href="https://github.com/anuraghazra/github-readme-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Spador&layout=compact&langs_count=8&theme=github_dark&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spador&layout=compact&langs_count=8&hide_border=true" alt="Top languages" width="330"></picture></a>
+
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><picture><source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Spador&theme=dark&hide_border=true"><img src="https://streak-stats.demolab.com?user=Spador&hide_border=true" alt="Contribution streak" width="420"></picture></a>
+
+<sub>Top languages measures committed code volume, not skill.</sub>
+
+</div>
+
+## Experience
+
+### [Saayam For All](https://saayamforall.org) — Backend Engineer
+
+- Built stateless REST APIs in Flask with request validation, isolated business logic, and production ready error handling.
+- Implemented a deterministic, score based matching service, with LLM classification as an enrichment step rather than the decision maker.
+- Deployed on AWS Lambda and API Gateway, tuned for concurrency, latency, and cost, with least privilege IAM across services.
+
+### [Deloitte Consulting USI](https://www.deloitte.com/us/en.html) — Software Engineer
+
+- Provisioned and governed infrastructure as code on AWS with Terraform for EC2, S3, and VPC configurations.
+- Streamlined CI/CD pipelines for Java applications using Jenkins, Maven, and Gradle, cutting deployment times by 30 percent.
+- Automated sandbox environment provisioning with Terraform and Docker on Kubernetes clusters, cutting setup time by 40 percent.
+
+### [Oracle](https://www.oracle.com) — Software Engineer (Backend), Co-op
+
+- Built Java REST APIs on Oracle WebLogic, improving service integration and reducing production errors.
+- Optimized SQL and PL/SQL with indexes and views, cutting report generation time by 19 percent.
+- Automated database maintenance with shell scripting, reducing manual operational effort by 30 percent.
+
+## Skills
+
+| Area | Tools |
+|---|---|
+| Languages | Python, Java, SQL, C/C++, Shell/Bash |
+| Databases | PostgreSQL, Neo4j (Cypher), DynamoDB, MongoDB |
+| Cloud and infrastructure | AWS (IAM, EC2, S3, Lambda, Route 53, ELB, CloudFront), OCI, Terraform, Docker, Kubernetes |
+| CI/CD and DevOps | GitHub Actions, Jenkins, GitLab CI, Git, Jira, MCP |
+| AI infrastructure | AWS Bedrock, SageMaker, LangGraph, CrewAI |
+| Backend | REST APIs (Flask, Spring Boot), JSON |
+
+## Certifications
+
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://www.credly.com/badges/b2c32831-a4dc-45ab-b9ed-5dca0969ccb8/public_url"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="AWS Certified Solutions Architect Associate badge"></a>
+
+**AWS Certified Solutions Architect – Associate (SAA-C03)**
+
+Issued Aug 2025 · Expires Aug 2028 · [Verify](https://www.credly.com/badges/b2c32831-a4dc-45ab-b9ed-5dca0969ccb8/public_url)
+
+</td>
+<td align="center" width="50%">
+<a href="https://www.credly.com/badges/f4a440de-4a0d-499a-9278-cfc97bc44dd9/public_url"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" alt="AWS Certified Cloud Practitioner badge"></a>
+
+**AWS Certified Cloud Practitioner (CLF-C02)**
+
+Issued Jul 2025 · Expires Jul 2028 · [Verify](https://www.credly.com/badges/f4a440de-4a0d-499a-9278-cfc97bc44dd9/public_url)
+
+</td>
+</tr>
+</table>
+
+## Education
+
+**[Rochester Institute of Technology](https://www.rit.edu)** — MS, Computer Science. GPA 3.8. Project work in graph backed services and DevOps automation.
+
+**[Vellore Institute of Technology](https://vit.ac.in)** — BS, Computer Science.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=spador&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Building infrastructure or AI tooling and need a backend engineer? Reach me at [sp3466@rit.edu](mailto:sp3466@rit.edu) or on [LinkedIn](https://linkedin.com/in/shivam-parashar1).
