@@ -22,6 +22,22 @@ Seattle, WA · Open to relocate · Backend, infrastructure, platform, SRE, and A
 
 ## Projects
 
+### [LLM Model Eval](https://github.com/Spador/llm-model-eval) · Text-to-SQL Model Selection
+
+Picking the best LLM for a natural language cricket stats feature under a $5,000
+monthly budget. Turns the constraints into a hard price ceiling, filters a
+leaderboard down to 6 candidates, then runs a custom eval on 20 hard text-to-SQL
+questions against a real IPL database. The leaderboard ranking did not survive
+the eval: the winner was ranked 14th.
+
+![Approach](https://raw.githubusercontent.com/Spador/llm-model-eval/main/docs/img/flowchart.png)
+
+`Python` `OpenRouter` `SQLite` `pandas`
+
+**[Repo](https://github.com/Spador/llm-model-eval)** ·
+**[Full approach](https://github.com/Spador/llm-model-eval/blob/main/APPROACH.md)** ·
+**[Results](https://github.com/Spador/llm-model-eval/blob/main/results/eval_results.csv)**
+
 ### [Halo](https://github.com/Spador/Halo)
 
 A free, open source Dynamic Island for the MacBook notch. Hover and it expands into media controls, a file shelf, custom volume and brightness HUDs, system stats, a calendar, and timers.
